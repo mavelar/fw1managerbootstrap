@@ -13,8 +13,8 @@
           Logged in as <a href="##" class="navbar-link">#rc.auth.fullname#</a> | <a href="#buildURL('login.logout')#" class="navbar-link">Logout</a>
         </p>
         <ul class="nav">
-          <li class="active"><a href="##">Home</a></li>
-          <li><a href="##">About</a></li>
+          <li<cfif getSection() IS 'main'> class="active"</cfif>><a href="#buildURL('')#">Home</a></li>
+          <li><a href="javascript:;" class="openAbout">About</a></li>
         </ul>
       </div>
     </div>
