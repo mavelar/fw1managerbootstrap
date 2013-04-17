@@ -10,6 +10,9 @@
 			theme = "default",
 			username = "admin",
 			password = "admin"
+		},
+		properties = {
+			javaVersion = createObject("java","java.lang.System").getProperty("java.version")
 		}
 	};
 </cfscript>

@@ -13,6 +13,7 @@
 	   	</div>
 		#view('includes/footer')#
 	  </div>
+	  #view('includes/about')#
 	  #view('includes/scripts')#
 	</body>
 </html>
