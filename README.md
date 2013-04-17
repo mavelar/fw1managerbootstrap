@@ -1,1 +1,2 @@
--- FW1 TWITTER BOOTSTRAP START-UP FOR MANAGER --
+-- FW1 TWITTER BOOTSTRAP START-UP FOR MANAGER 								--
+-- Author:  Manuel Avelar linkedin: http://www.linkedin.com/in/manuelavelar --
